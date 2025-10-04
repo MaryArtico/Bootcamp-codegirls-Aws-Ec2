@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Iniciando na AWS
 
 Estou iniciando minha jornada nas ferramentas da AWS, Git e Github para uma transição de carreira para área de tecnologia.
@@ -63,3 +64,5 @@ git init
 Site da Dio, Bootcamp, codegirls;
 (https://aws.amazon.com/)
 [Site para criar o readme](readme.so)
+
+
